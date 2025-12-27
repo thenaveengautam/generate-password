@@ -4,6 +4,7 @@ A simple and responsive Random Password Generator built using HTML, CSS, and Jav
 It generates strong passwords using uppercase letters, lowercase letters, numbers, and special characters.
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/31dad662-c1a0-4359-a39f-f9029816313f" />
 
+
 ---
 
 ## 🚀 Features
